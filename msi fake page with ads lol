@@ -1,0 +1,35 @@
+<!doctype html>
+ <html>
+     <head>
+         <title>Fake Msi page</title>
+     </head>
+      <body>
+            <img src="https://csshint.com/wp-content/uploads/2019/05/css-tabs.gif" height="100px" width="1000px">
+                <br>
+            <img src="https://i2.wp.com/www.lifeinsp.com/wp-content/uploads/2017/04/maxresdefault-2.jpg?fit=1280%2C720&ssl=1" height="400px" width="1000px">
+
+          <h1>Below is a Link</h1>
+              <a href="https://www.msi.com/">TO MSI LINK HERE</a>
+              <font color="Red">Thank you</font> <font color="orange">for</font><font color="blue">joining</font>
+                    <font color="green">are website</font>
+                      <br>
+                    <a href="https://www.msi.com/">
+                          <br>
+                          <a>Visit are Store on google maps</a>
+                              <img src="https://akm-img-a-in.tosshub.com/indiatoday/images/bodyeditor/202002/Maps_Pin_FullColor-x1000.png?p5mE6zsNfbzHgIfhAD8xdamQCvveDfkN" width="50px"
+                              height="50px">
+                              <img src="https://thumbs.dreamstime.com/b/msi-logo-taiwan-based-information-technology-corporation-booth-cee-largest-consumer-electronics-trade-show-ukraine-110130873.jpg"
+                               height="50px" width="50px">
+                                    <a>Contact us or visit are store</a>
+                                    <a href="https://us.msi.com/Desktop/Products#?tag=Aegis-Series" height="50px" width="50px">
+                    <a>Feel free to give us some feedback below</a>
+                      <button>Like</button>
+                      <br> 
+                      <a>Or</a>
+                                  <br>
+                          <button>Dislike</button>  
+                        <br> 					
+                      				<br>
+                   			 	</a>
+            		 		</a>
+      	</body>		
